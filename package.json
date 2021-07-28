@@ -1,11 +1,11 @@
 {
   "name": "npm-wuaixiaoyao-demo",
-  "version": "1.0.15",
+  "version": "1.0.19",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "sh publish.sh"
+    "deploy": "bash publish.sh"
   },
   "author": "wuaixiaoyao",
   "license": "ISC",
