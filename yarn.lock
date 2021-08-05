@@ -11,3 +11,8 @@ npm-test@^0.0.1:
   version "0.0.1"
   resolved "https://registry.npmjs.org/npm-test/-/npm-test-0.0.1.tgz#bbacd814b5bcb1f5729c4c22676144db617929e0"
   integrity sha1-u6zYFLW8sfVynEwiZ2FE22F5KeA=
+
+npm_demo@^1.0.0:
+  version "1.0.0"
+  resolved "http://10.17.7.16:8080/repository/local_npm/npm_demo/-/npm_demo-1.0.0.tgz#3c2352e72b7d09ca64eb786781c5a3471853a1b3"
+  integrity sha512-2Nh5DLqNQzA0+VBOdhz9Yf3SD5Jh+c0r3XgrKwabWDbMy79AUf7Fv+xvCrm1nHF7fqGlTak64MGKLr/IMZiKuw==

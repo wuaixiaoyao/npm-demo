@@ -1,3 +1,9 @@
-### utils 
-- rules
-- api
+# common code
+## rules
+> common rules
+
+-  prttier
+
+## api
+
+- service
