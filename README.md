@@ -1,8 +1,11 @@
 # common code
+
 ## rules
+
 > common rules
 
--  prttier
+- prttierrc
+- eslint
 
 ## api
 
