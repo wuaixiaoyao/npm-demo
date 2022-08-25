@@ -16,5 +16,8 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "npm-test": "^0.0.1"
+  },
+  "devDependencies": {
+    "select-version-cli": "^0.0.2"
   }
 }
