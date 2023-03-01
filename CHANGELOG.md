@@ -1,3 +1,7 @@
+## [1.2.7](https://github.com/wuaixiaoyao/npm-demo/compare/v1.2.6...v1.2.7) (2023-03-01)
+
+
+
 ## [1.2.6](https://github.com/wuaixiaoyao/npm-demo/compare/v1.2.5...v1.2.6) (2022-09-26)
 
 
